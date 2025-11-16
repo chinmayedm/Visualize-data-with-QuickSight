@@ -42,7 +42,7 @@ The chart/graph here is a breakdown of Netflix content by release_year. The char
 
 I created this graph by dragging and dropping the release_year field into the Y-Axis heading and the type field into the Group/Color heading.
 
-
+![first visualization](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.23.33.png?raw=true)
 
 # Using filters
 
@@ -50,8 +50,11 @@ Filters are useful for narrowing down data to focus on specific subsets, enablin
 
 This visualization is a breakdown of Netflix content by release year and type (Movies, TV Shows, and Others). Here I added a filter by release year and content type to highlight trends, such as the distribution of titles over time and the popularity of content.
 
+![filters](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.28.01.png?raw=true)
+
 # Setting up a dashboard
 
 As a finishing touch, I edited the titles in my charts so that anyone can understand them at a glance.
 
 Did you know you can export your dashboard as PDFs too? I did this by selecting the Export icon and choosing Generate PDF, waiting for the PDF to be ready, then selecting Download. Now you can have a copy of the dashboard.
+![dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.28.21.png?raw=true)
