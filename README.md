@@ -1,5 +1,6 @@
 
 # Visualize data with QuickSight
+! [Dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.01.41.png?raw=true)
 
 # What is Amazon QuickSight?
 
