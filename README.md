@@ -1,6 +1,6 @@
 
 # Visualize data with QuickSight
-! [Dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.01.41.png?raw=true)
+![Dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.01.41.png?raw=true)
 
 # What is Amazon QuickSight?
 
@@ -20,11 +20,13 @@ S3 is used in this project to store manifest.json, updated with the S3 bucket UR
 
 I edited the manifest.json file by adding the S3 bucket URL to specify the location of the Netflix dataset stored in Amazon S3. It’s important to edit this file because it ensures that the data source is correctly linked, enabling seamless access.
 
-! [S3 bucket](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.02.50.png?raw=true)
+![S3 bucket](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.02.50.png?raw=true)
 
 # Create QuickSight account
 
-Creating a QuickSight account costs $0, but make sure to uncheck the “Paginated Reports” checkbox. Creating an account took me around 2 minutes.
+Creating a QuickSight account costs $0, but make sure to uncheck the “Paginated Reports” checkbox. 
+Creating an account took me around 2 minutes.
+![QuickSight account](
 
 # Download the dataset
 
