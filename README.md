@@ -1,4 +1,4 @@
-
+<img width="1226" height="552" alt="image" src="https://github.com/user-attachments/assets/6665782d-8e88-4d18-aa56-e1d0ea16a89b" /><img width="1226" height="552" alt="image" src="https://github.com/user-attachments/assets/8afa4233-4a49-4f3b-8210-f22740b21dcd" />
 # Visualize data with QuickSight
 ![Dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.01.41.png?raw=true)
 
@@ -26,11 +26,14 @@ I edited the manifest.json file by adding the S3 bucket URL to specify the locat
 
 Creating a QuickSight account costs $0, but make sure to uncheck the “Paginated Reports” checkbox. 
 Creating an account took me around 2 minutes.
-![QuickSight account](
+
+![QuickSight account](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.10.15.png?raw=true)
 
 # Download the dataset
 
 I connected the S3 bucket to QuickSight by visiting the S3 bucket and copying the URL from the manifest.json file. The manifest.json file was important in determining how your dataset looks, so QuickSight knows how to show it in charts or graphs.
+
+![Dataset](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.14.30.png?raw=true)
 
 # My first visualization
 
@@ -39,6 +42,8 @@ To create visualizations in QuickSight, I added release_year to the Y-axis, disp
 The chart/graph here is a breakdown of Netflix content by release_year. The chart highlights the total count of records grouped by release year, while the bar graph further categorizes the content into Movies, TV Shows, and Other types.
 
 I created this graph by dragging and dropping the release_year field into the Y-Axis heading and the type field into the Group/Color heading.
+
+![first](![Uploading image.png?raw=true)
 
 # Using filters
 
