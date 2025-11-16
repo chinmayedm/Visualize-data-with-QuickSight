@@ -1,5 +1,18 @@
 # Visualize data with QuickSight
+# 30 second Summary
+
+Amazon QuickSight helps you analyse data and create visualisations easily. Today we're going to analyse a huge dataset of Netflix shows and movies to create a dashboard that extracts all the juicy insights. 
+
+Even if you're not familiar with data analysis, Amazon QuickSight is designed to be beginner friendly. Here's what you will create in the next hour or two...
+
 ![Dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.01.41.png?raw=true)
+
+Here's the game plan that will take you from beginner to dashboard complete! In this project, you will:
+🪣 Upload a dataset into an S3 bucket.
+🆕 Create an account on Amazon QuickSight.
+🔗 Connect your dataset (in the S3 bucket) to Amazon QuickSight.
+📊 Create a variety graphs, charts and analysis using QuickSight.
+🏆 Publish a dashboard full of insights into your dataset!
 
 # What is Amazon QuickSight?
 
@@ -57,4 +70,5 @@ This visualization is a breakdown of Netflix content by release year and type (M
 As a finishing touch, I edited the titles in my charts so that anyone can understand them at a glance.
 
 Did you know you can export your dashboard as PDFs too? I did this by selecting the Export icon and choosing Generate PDF, waiting for the PDF to be ready, then selecting Download. Now you can have a copy of the dashboard.
+
 ![dashboard](https://github.com/chinmayedm/Visualize-data-with-QuickSight/blob/main/Screenshot%202025-11-16%20at%2019.28.21.png?raw=true)
